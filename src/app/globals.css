@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-gradient {
+  border: 1px solid;
+  border-image-source: linear-gradient(321.71deg, #1e1e1e 25.78%, #61f19b 100%);
+  border-image-slice: 1;
+}

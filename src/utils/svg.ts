@@ -1,0 +1,11 @@
+export const iconWrapper = "/svg/avatar_wrapper.svg";
+export const headerBlob = "/svg/blob_1.svg";
+export const videoBlob = "/svg/blob_2.svg";
+export const footerConnectLogo = "/svg/footer_connect_logo.svg";
+export const footerLFLogo = "/svg/footer_logo.svg";
+export const headerConnectLogo = "/svg/header_logo.svg";
+export const heroWhitePath = "/svg/hero_white_path.svg";
+export const underlineType1 = "/svg/underline_type_1.svg";
+export const underlineType2 = "/svg/underline_type_2.svg";
+export const menuOpen = "/svg/menu_open.svg";
+export const menuClose = "/svg/menu_close.svg";
