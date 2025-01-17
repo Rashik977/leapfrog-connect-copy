@@ -2,7 +2,7 @@ export const facebookURL =
   "https://www.facebook.com/people/Leapfrog-Connect/61572083639570/?sk=about";
 export const instagramURL = "https://www.instagram.com/leapfrog_connect/";
 export const linkedinURL = "https://www.linkedin.com/company/105601192/";
-export const email = "mailto:connect@lftechnology.com";
+export const email = "mailto:connect@leapfrogconnect.co";
 
 //leadership linkedin
 export const linkedinAsb = "https://www.linkedin.com/in/ankursharmaktm/";
